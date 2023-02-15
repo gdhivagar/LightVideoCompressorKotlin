@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Video Compressor</string>
+    <string name="open_gallery">Open Gallery</string>
+    <string name="open_camera">Open Camera</string>
+</resources>
